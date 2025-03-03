@@ -13,8 +13,8 @@ A few resources to get you started if this is your first Flutter project:
 
 
 ## 📸 Screenshot  
-<img src="assets/Screen Shot.png"/>
-<img src="assets/Screen Shot2.png"/>
+<img src="assets/Screen Shot.png" width="300"/>
+<img src="assets/Screen Shot2.png" width="300"/>
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
